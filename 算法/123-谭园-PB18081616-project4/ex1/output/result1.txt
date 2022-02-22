@@ -1,0 +1,11 @@
+vernum: 8
+arcnum: 11
+runtime£º12.800000¦Ìs
+4 0 2
+2 1 4
+2 3 5
+0 5 6
+0 1 11
+5 7 11
+2 6 12
+total weight: 51
